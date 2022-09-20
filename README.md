@@ -1,4 +1,4 @@
-# Project react JS y Next JS 
+# Project ReactJS y NextJS 
 
 This project was bootstrapped with [Next.js](https://nextjs.org/).
 
